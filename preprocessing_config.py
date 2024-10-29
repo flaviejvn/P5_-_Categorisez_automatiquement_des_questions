@@ -1,5 +1,8 @@
 # Paramètrage des seuils.
 seuil_representation_top_langage = 0.75
+seuil_min_rare_word = 1
+top_N = 200
+min_occurrences = 50
 
 # Mapping.
 language_names = {
@@ -17,4 +20,3 @@ language_names = {
     'hr': 'croate',
     'cs': 'tchèque'
 }
-
